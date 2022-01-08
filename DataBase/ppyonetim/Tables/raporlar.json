@@ -1,0 +1,2 @@
+[{"kayitNo":1, "projeAdi":"game", "projeTuru":"oyun", "projeAciklama":"mobil oyun", "durum":"devam ediyor", "kullanim":"java", "personelAdi":"fatih", "personelSoyadi":"can", "departman":"mobil"},
+ {"kayitNo":2, "projeAdi":"reservation system", "projeTuru":"rezervasyon", "projeAciklama":" otel rezervasyon uygulamasi", "durum":"tamamlandi", "kullanim":"html, css, js, jsp, mysql", "personelAdi":"merve", "personelSoyadi":"nur", "departman":"yazilim"}]
