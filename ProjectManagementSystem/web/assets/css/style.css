@@ -1,0 +1,117 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 18 Ara 2021, 16:00:23
+    Author     : azsusss
+*/
+
+body{
+    background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+}
+a{
+    color: black;
+}
+a:hover{
+    color: rgba(146, 0, 255, 0.9);
+}
+
+.bottom-title{
+    color: black;
+}
+
+.home-text{
+    margin-top: 10px;
+    color:black;
+}
+.home-text :hover{
+    color: black;
+}
+
+.phome{
+    
+}
+.phome h2{
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    
+    margin-top: 100px;
+}
+.home-card{
+    background-color: rgba(0, 0, 0, 0.1);
+    color: white;
+    text-align: center;
+    padding: 90px;
+    margin-top: 70px;
+    
+}
+.home-card a{
+     color: rgba(146, 0, 255, 0.8);
+}
+.home-card a:hover{
+    color: red;
+   
+}
+.home-card h5{
+    font-size:31px;
+}
+.home-card p{
+    font-size: 20px;
+}
+.home-card small{
+    font-size: 40px;
+}
+.home-card-title{
+    
+    font-size: 30px;
+}
+.home-card-text{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.admin-page-title{
+    color: white;
+}
+.admin-page-title h2{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.page-card{
+    justify-content: center;
+    margin-left:-120px;
+}
+.page-bottom{
+    margin-bottom:99px;
+}
+.unactive{
+    color:white;
+}
+.btn-hover:hover{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.page-title h3{
+    color:white;
+}
+#cookie-box{
+    color:white;
+    text-align: center;
+    font-size: 18px;
+    padding: 5px;
+}
+#cookie-box button{
+    border-radius: 3px;
+    padding: 2px;
+    margin: 5px;
+    color: rgb(255, 255, 255);
+    border-color: transparent;
+    background-color: rgb(232, 60, 77);
+    padding: .4em .8em;
+    font-size: .9em;
+    font-weight: 100;
+    border-style: solid;
+}
